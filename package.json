@@ -1,0 +1,25 @@
+{
+  "name": "alpharetta_ice_cream",
+  "version": "1.0.0",
+  "description": "Top 5 ice cream shops in Alpharetta, GA according to Yelp Fusion API",
+  "main": "top5.js",
+  "engines": {
+    "node": ">=14.5.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krohne/alpharetta_ice_cream.git"
+  },
+  "author": "Greg Krohne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krohne/alpharetta_ice_cream/issues"
+  },
+  "homepage": "https://github.com/krohne/alpharetta_ice_cream#readme",
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
+}
